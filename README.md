@@ -18,7 +18,7 @@ This project provides a Dockerized SaltMaster that can be dynamically configured
 Clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/saltmaster-docker.git
+git clone https://github.com/Berodin/saltmaster-docker.git
 cd saltmaster-docker
 ```
 
